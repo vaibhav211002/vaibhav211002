@@ -19,7 +19,10 @@
 - ⚡ Fun fact **I think I am Stupid in coding**
   
 - My own Deployed NPM Packages 📦
-         - @vaibhavbhatt2110/convert-to-json  (Helps to convert WML and CSV data to JSON response). [package link](https://www.npmjs.com/package/@vaibhavbhatt2110/convert-to-json)
+1. @vaibhavbhatt2110/convert-to-json  (Helps to convert WML and CSV data to JSON response). [package link](https://www.npmjs.com/package/@vaibhavbhatt2110/convert-to-json)
+2. error-logging-client  && error-logging-server (Helps to log the frontend error to the backend server).
+   [error-logging-client](https://www.npmjs.com/package/error-logging-client)
+   [error-logging-server](https://www.npmjs.com/package/error-logging-server)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
